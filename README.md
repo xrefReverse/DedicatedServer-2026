@@ -1,7 +1,7 @@
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
                  DEDICATEDSERVER-2026 
-                      WARFACE 
+                      WARFACE  
                      by cryptoe 
 
 
