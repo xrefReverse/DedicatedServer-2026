@@ -2,7 +2,6 @@
 
                  DEDICATEDSERVER-2026 
                       WARFACE  
-                Работа была сделана cryptoe 
 
 
 
